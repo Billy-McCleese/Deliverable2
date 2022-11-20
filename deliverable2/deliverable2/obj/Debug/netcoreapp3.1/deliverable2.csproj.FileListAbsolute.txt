@@ -1,0 +1,14 @@
+C:\Git\deliverable_2\deliverable2\deliverable2\bin\Debug\netcoreapp3.1\deliverable2.exe
+C:\Git\deliverable_2\deliverable2\deliverable2\bin\Debug\netcoreapp3.1\deliverable2.deps.json
+C:\Git\deliverable_2\deliverable2\deliverable2\bin\Debug\netcoreapp3.1\deliverable2.runtimeconfig.json
+C:\Git\deliverable_2\deliverable2\deliverable2\bin\Debug\netcoreapp3.1\deliverable2.runtimeconfig.dev.json
+C:\Git\deliverable_2\deliverable2\deliverable2\bin\Debug\netcoreapp3.1\deliverable2.dll
+C:\Git\deliverable_2\deliverable2\deliverable2\bin\Debug\netcoreapp3.1\deliverable2.pdb
+C:\Git\deliverable_2\deliverable2\deliverable2\obj\Debug\netcoreapp3.1\deliverable2.csproj.AssemblyReference.cache
+C:\Git\deliverable_2\deliverable2\deliverable2\obj\Debug\netcoreapp3.1\deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\deliverable_2\deliverable2\deliverable2\obj\Debug\netcoreapp3.1\deliverable2.AssemblyInfoInputs.cache
+C:\Git\deliverable_2\deliverable2\deliverable2\obj\Debug\netcoreapp3.1\deliverable2.AssemblyInfo.cs
+C:\Git\deliverable_2\deliverable2\deliverable2\obj\Debug\netcoreapp3.1\deliverable2.csproj.CoreCompileInputs.cache
+C:\Git\deliverable_2\deliverable2\deliverable2\obj\Debug\netcoreapp3.1\deliverable2.dll
+C:\Git\deliverable_2\deliverable2\deliverable2\obj\Debug\netcoreapp3.1\deliverable2.pdb
+C:\Git\deliverable_2\deliverable2\deliverable2\obj\Debug\netcoreapp3.1\deliverable2.genruntimeconfig.cache
